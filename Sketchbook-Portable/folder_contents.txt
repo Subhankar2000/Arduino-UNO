@@ -1,2 +1,7 @@
 This folder contains sketches for an UNO comapaitable board [ RoboBoard By Skubotics ] , Though all are same , for the pin differences
 this is at a different folder !
+
+Subhankar Karmakar 
+E.C.E. Dept. - Asansol Engineering College 
+[ 2017 - 2021 ]  
+Programs Modified in Jan-18 , uploaded in March 2018

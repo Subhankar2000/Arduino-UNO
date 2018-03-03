@@ -1,0 +1,6 @@
+1.本模块共配置了7个Arduino显示测试代码和6个SD卡测试代码。
+2.本测试代码适用于UNO和Mega2560等，可直插对应位置进行测试，无需接线。
+3.Example01-Simple test为最简单的测试，不需要依赖安装库，可直接刷屏红绿蓝测试模块硬件好坏。
+4.Example02~07均需要依赖库，请先将Install libraries里面的库拷贝到Arduino库路径下。
+5.扩展例程SDCard Exten Example和Example05-ShowBMP 均需要用到SD卡，涉及SD卡的测试程序仅支持UNO系列，不支持Mega2560.
+6.本测试程序所用IDE版本为：arduino-1.6.2-windows，如用户使用的版本低于1.62可能会有编译错误，请更换至新版本。

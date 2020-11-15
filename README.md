@@ -4,4 +4,4 @@ This is the repository , where elementary Arduino Sketches are there , anyone ca
 Subhankar Karmakar 
 E.C.E. Dept. - Asansol Engineering College 
 [ 2017 - 2021 ]  
-Programs Modified in August-September 2017 , uploaded in March 2018
+Programs Modified in August-September 2017 , uploaded in March  2018
